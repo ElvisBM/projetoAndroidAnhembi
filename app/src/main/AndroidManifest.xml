@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".pesquisa"></activity>
+        <activity android:name=".obrigado"></activity>
+        <activity android:name=".finaliza" />
+        <activity android:name=".pesquisa" />
         <activity android:name=".instrucoes" />
         <activity android:name=".MainActivity">
             <intent-filter>
