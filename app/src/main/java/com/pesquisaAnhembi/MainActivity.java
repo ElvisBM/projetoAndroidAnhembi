@@ -33,5 +33,14 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+        Button buttonCadastro = findViewById(R.id.buttonCadastro);
+        buttonCadastro.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                //System.out.println("Button Clicked");
+                Intent activityCadastro = new Intent(getApplicationContext(), cadastro.class);
+                startActivity(activityCadastro);
+            }
+        });
     }
 }
