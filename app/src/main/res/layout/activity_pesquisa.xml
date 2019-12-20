@@ -173,13 +173,13 @@
             android:text="3" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new1"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="4" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new2"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="5" />
@@ -231,13 +231,13 @@
             android:text="3" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new1"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="4" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new2"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="5" />
@@ -383,13 +383,13 @@
             android:text="3" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new1"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="4" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new2"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="5" />
@@ -442,13 +442,13 @@
             android:text="3" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new1"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="4" />
 
         <RadioButton
-            android:id="@+id/silent"
+            android:id="@+id/new2"
             android:layout_width="75dp"
             android:layout_height="wrap_content"
             android:text="5" />
